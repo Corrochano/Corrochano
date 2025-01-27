@@ -2,8 +2,10 @@
 
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A++Programming+Enthusiast+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+from+Spain"></h3>
 
-<a align="center"><img src="https://github.com/user-attachments/assets/ddb39d1c-d448-41b5-a086-b6d29a644968"> <img src="https://github.com/user-attachments/assets/b5be7525-1147-4f71-b7a8-882a5f20ca62"> </a>
-<br/>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Corrochano&show_icons=true&theme=transparent" alt="Corrochano's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corrochano&show_icons=true&theme=transparent" alt="Top Langs" />
+</div>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <!-- ABOUT ME -->
