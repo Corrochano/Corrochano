@@ -4,7 +4,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Corrochano&show_icons=true&theme=transparent" alt="Corrochano's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corrochano&show_icons=true&theme=transparent" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corrochano&show_icons=true&theme=transparent&size_weight=0.5&count_weight=0.5" alt="Top Langs" />
 </div>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
